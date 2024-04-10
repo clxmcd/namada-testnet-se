@@ -107,3 +107,10 @@ LimitNOFILE=65535
 WantedBy=multi-user.target
 EOF
 ```
+
+## Start servive
+```
+sudo systemctl daemon-reload
+sudo systemctl enable namadad
+sudo systemctl start namadad && sudo journalctl -u namadad -f -o --no-hostname cat
+```
