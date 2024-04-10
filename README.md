@@ -1,5 +1,5 @@
 # Namada infrastructure & Validator instructions
-
+---
 ## Infrastructures
 
 #### Public RPC: 
