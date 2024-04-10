@@ -22,6 +22,11 @@ tcp://71aa78d811f4939c16dfc87c5e53265b7af59f2f@75.119.137.202:26657
 tcp://71aa78d811f4939c16dfc87c5e53265b7af59f2f@75.119.137.202:26657
 ```
 
+#### Address book:
+```
+http://rpc.se.morecon.online:54321/addrbook.json
+```
+
 #### Snapshot:
 ```
 http://rpc.se.morecon.online:54321/se-snapshot.tar.gz
